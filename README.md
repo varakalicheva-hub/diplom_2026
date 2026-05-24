@@ -26,17 +26,6 @@
    - точное и частичное совпадение квадруплетов (precision, recall, F1) — `notebooks/ocenka_tochnoe_sovpadenie.ipynb`;
    - семантическая близость извлеченных фрагментов — `notebooks/ocenka_semanticheskaya_blizost.ipynb`.
 
-## Структура репозитория
-
-```
-diplom_2026/
-├── README.md
-├── data/
-│   ├── korpus_diplom_2026/   — основной корпус исследования (7 файлов)
-│   └── netologiya/           — корпус апробации (4 файла)
-└── notebooks/                — код (Jupyter / Google Colab)
-```
-
 ## Данные
 
 ### Корпус «Диплом 2026» — основной корпус исследования
